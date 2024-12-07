@@ -4,3 +4,7 @@
 2. Joker
 3. flash reverso
 4. doms
+#Notas:
+
+
+
